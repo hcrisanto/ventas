@@ -33,9 +33,9 @@
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.button1.ForeColor = System.Drawing.SystemColors.Window;
+            this.button1.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
             this.button1.Location = new System.Drawing.Point(67, 156);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(148, 41);
